@@ -6,15 +6,3 @@ Just to add a step
 
 Step 2
 Correct grammar on main.txt line 5 an => a
-
-step 3
-Just to add a step
-
-Step 4
-In README.md correct grammar, line 7 commit modify according, line 8 commit, line 15 branch
-
-step 5
-Just to add a step
-
-Step 6
-Revert to cde1a8ce1fc47851584aa82c6a4719e1677e525d
