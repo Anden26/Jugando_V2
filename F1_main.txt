@@ -1,2 +1,0 @@
-Step 0
-Creation of F1 branch and F1_main.txt
