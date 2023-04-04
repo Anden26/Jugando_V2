@@ -2,4 +2,7 @@ Step 0
 Initial commit, add rules to README.md and main.txt creation and add step 0
 
 Step 1
-Just to add an step
+Just to add a step
+
+Step 2
+Correct grammar on main.txt line 5 an => a
